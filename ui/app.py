@@ -1,5 +1,5 @@
 """
-WALMART AI DECISION INTELLIGENCE PLATFORM — ENTERPRISE UI v2.0
+WALMART AI DECISION INTELLIGENCE PLATFORM Overview — ENTERPRISE UI v2.0
 Executive Operations Command Center · 10 Operational Pages
 """
 import sys, os, time, random
